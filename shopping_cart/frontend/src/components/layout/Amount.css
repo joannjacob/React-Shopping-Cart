@@ -1,0 +1,25 @@
+.amount {
+  background-color: #ffe6e6;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+  color: 331a00;
+  height: 15vh;
+  font-size: 20px;
+  color: #663300;
+}
+
+.subcalc {
+  text-align: center;
+  line-height: 30px;
+}
+
+div.label {
+  display: inline-block;
+  padding: 5px;
+}
+
+div.value {
+  display: inline-block;
+  padding: 5px;
+}

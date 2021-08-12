@@ -1,0 +1,12 @@
+.productcounter {
+  background: green;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-size: cover;
+  /* padding: 1em;
+  width: 30em;
+  font-size: 2vw; */
+}
